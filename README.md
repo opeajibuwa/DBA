@@ -8,7 +8,7 @@ Install Pytorch
 ### Prepare the dataset:
 #### LOAN dataset:
 
-- download the raw dataset [lending-club-loan-data.zip](https://www.kaggle.com/wendykan/lending-club-loan-data/) into dir `./utils` 
+- download the raw dataset [lending-club-loan-data.zip](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv?resource=download) into dir `./utils` 
 - preprocess the dataset. 
 
 ```
