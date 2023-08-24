@@ -18,7 +18,7 @@ cd ./utils
 
 #### Tiny-imagenet dataset:
 
-- download the dataset [tiny-imagenet-200.zip]() into dir `./utils` 
+- download the dataset [tiny-imagenet-200.zip](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet) into dir `./utils` 
 - reformat the dataset.
 ```
 cd ./utils
